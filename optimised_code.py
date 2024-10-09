@@ -11,8 +11,6 @@ Please create a python application that can take datasets and clean the data
 
 import pandas as pd
 import numpy as np
-import time
-import random
 import os
 
 # checking file is exist or not
